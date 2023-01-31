@@ -1,4 +1,4 @@
 public class q1 {
-    int i =0;
-    String a="222";
+    int i =100;
+
 }
